@@ -39,6 +39,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punsak1998&show_icons=true&theme=radium" alt="Punsak's GitHub stats" />
-</div>
+![Punsak's GitHub stats](https://streak-stats.demolab.com?user=punsak1998&theme=radical)
